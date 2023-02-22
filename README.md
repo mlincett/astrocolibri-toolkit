@@ -1,2 +1,2 @@
 # astrocolibri-toolkit
-Quick and dirty wrapper around the Astro-COLIBRI wrapper
+Quick and dirty wrapper around the Astro-COLIBRI API
